@@ -54,7 +54,7 @@ var_skipping = \relative c' {
     a,,8 \appoggiatura{d'8} cis16[ b] cis8 a e' cis
     g'8 e16 cis fis8 d16 b e8 cis16 a
     fis'8 d16 a' g8 a16 fis e8 fis16 d
-    fis8^"(check)" d16 d' g,8 e16 d' a8 fis16 d'
+    fis8 d16 d' g,8 e16 d' a8 fis16 d'
     b8 g16 e a8 fis16 d g8 e16 cis
     d8 a16 fis d4 r \bar"||"
 }
@@ -68,10 +68,10 @@ var_running = \relative c' {
     d a fis a d, a b cis d e fis g
     a d, fis a d fis, a d fis a, d fis
     a a, fis' a, g' a, e' a, fis' a, d a
-    g'^"(check)" a,, e' a cis e, a cis e a, cis e
+    g' a,, e' a cis e, a cis e a, cis e
     g a, e' a, fis' a, d a e' a, cis a
     fis' d a' fis g a fis g e fis d e
-    fis^"(check)" d d' d, g e d' e, a fis d' a
+    fis d d' d, g e d' e, a fis d' a
     b g fis\trill e a fis e\trill d g e d\trill cis
     d a fis a d,4 r \bar"||"
 }
